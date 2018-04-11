@@ -1,0 +1,26 @@
+<article class="is-post is-post-excerpt">
+    <header>
+        <h2><a href=$url$>$title$</a></h2>
+    $if(description)$
+          <span class="byline">$description$</span>
+    $endif$
+    </header>
+    $if(date)$
+    <div class="info">
+            <span class="date"><span class="month">$mon$<span>$rest$</span></span>
+                               <span class="day">$day$</span><span class="month"><span>, </span></span>
+                               <span class="year">$year$</span></span>
+        <!--
+        <ul class="stats">
+            <li><a href="#" class="fa fa-comment" > 16</a></li>
+            <li><a href="#" class="fa fa-heart"   > 32</a></li>
+            <li><a href="#" class="fa fa-twitter" > 64</a></li>
+            <li><a href="#" class="fa fa-facebook">128</a></li>
+        </ul>
+        -->
+    </div>
+    $endif$
+    <p>
+        $body$
+    </p>
+</article>
