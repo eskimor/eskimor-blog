@@ -3,14 +3,14 @@ title: About me
 ---
 
 I am Robert Klotzner born 1986 in Vienna (Austria). Since I learned in school
-that anyone owning a computer has the means to write programs for it, I
-bought a 1200 pages book on C++ and was into programming. Since then I am a self
-taught passionate programmer, both as a hobby an professionally. Later I also
-learned Java, Python, Lua, Assembler and D. D was the first language that finally
-let me leave my mother tongue (C++) behind a bit, until I finally learned
-Haskell and was sold on statically typed functional programming and Haskell in
-particular, embracing laziness. I had courses about Haskell on University (TU
-Wien) and worked through a bunch of books[1][1] [2][2] [3][3].
+that anyone owning a computer has the means to write programs for it, I bought a
+1200 pages book on C++ and was into programming. Since then I am a self taught
+passionate programmer, both as a hobby and professionally. Later I also learned
+Java, Python, Lua, Assembler and D. D was the first language that finally let me
+leave my mother tongue (C++) behind a bit, until I finally learned Haskell and
+was sold on statically typed functional programming and Haskell in particular,
+embracing laziness. I had courses about Haskell at the Vienna University of
+Technology and worked through a bunch of books[1][1] [2][2] [3][3].
 
 In 2014, I became father
 of twins, which resulted in me writing a baby monitor in Haskell. Then I got
