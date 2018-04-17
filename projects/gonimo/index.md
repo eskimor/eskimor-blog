@@ -24,6 +24,6 @@ Deployment of our services is accomplished via [nixops][nixops].
 [Gonimo Android]: https://play.google.com/store/apps/details?id=com.gonimo.baby
 [reflex]: https://github.com/reflex-frp/reflex
 [reflex-dom]: https://github.com/reflex-frp/reflex-dom
-[Gonimo Architecture]: https://github.com/gonimo/gonimo/blob/master/front/doc/Gonimo-Architecture.md
+[Gonimo Architecture]: /posts/2018-04-11-Gonimo-Architecture-Part1.html
 [Gonimo Github]: https://github.com/gonimo/gonimo
 [nixops]: https://nixos.org/nixops/
