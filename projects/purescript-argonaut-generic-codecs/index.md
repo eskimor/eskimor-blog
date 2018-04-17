@@ -13,3 +13,4 @@ Related resources:
  - [The code](https://github.com/eskimor/purescript-argonaut-generic-codecs)
 
 [purescript-bridge]: /projects/purescript-bridge/index.html
+[aeson]: https://hackage.haskell.org/package/aeson

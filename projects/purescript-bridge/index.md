@@ -6,7 +6,7 @@ date: 2016-03-19
 tags: haskell, purescript
 ...
 
-An early version of [gonimo][gonimo] was written in PureScript, so I wrote a
+An early version of [Gonimo][gonimo] was written in PureScript, so I wrote a
 type-definition translation program.
 
 Related resources:
