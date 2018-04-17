@@ -16,6 +16,7 @@ Some related resources:
  - [The Android app](Gonimo Android): Is sold for a little fee, to make the project sustainable.
  - [The Website](https://gonimo.com): Our shiny online presence.
  - [The Code][Gonimo Github]: Also if you want to have some inspiration, on howto build an app based on reflex, check out the [Gonimo Architecture][Gonimo Architecture].
+ - [Netidee][netidee] funded the project and made it possible.
 
 
 Deployment of our services is accomplished via [nixops][nixops].
@@ -27,3 +28,4 @@ Deployment of our services is accomplished via [nixops][nixops].
 [Gonimo Architecture]: /posts/2018-04-11-Gonimo-Architecture-Part1.html
 [Gonimo Github]: https://github.com/gonimo/gonimo
 [nixops]: https://nixos.org/nixops/
+[netidee]: https://www.netidee.at/
